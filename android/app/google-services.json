@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "209087616748",
+    "project_id": "authar-app",
+    "storage_bucket": "authar-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209087616748:android:423328d8460392b12af7c9",
+        "android_client_info": {
+          "package_name": "com.example.autharapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "209087616748-n30uv18iiq1pqs07ppb2f482k4i7k1ip.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_bdsN3_6GKld25z47_LHY3BKsz7kolTc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "209087616748-n30uv18iiq1pqs07ppb2f482k4i7k1ip.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
